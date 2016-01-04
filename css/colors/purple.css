@@ -1,0 +1,236 @@
+@charset "utf-8";
+/* CSS Document */
+/* -------------------------------------------------------------- Colors for Main css Starts ---------------------------- */
+#navigation ul.nav a:hover {
+	color: #ba54ff;
+}
+#navigation ul.nav a.current {
+	color: #ba54ff;
+}
+#navigation ul.nav li .yamm-content a:hover {
+	color: #ba54ff!important;
+}
+.navbar-nav>li>.dropdown-menu li a:hover {
+	color: #ba54ff!important;
+}
+.dropdown-submenu:hover>a:after {
+	border-left-color: #ba54ff;
+}
+#mobile-header .icon-bar {
+	background-color: #ba54ff;
+}
+.breaking-news .title {
+	background-color: #ba54ff;
+	color: #fff;
+	margin: 0px;
+	text-transform: uppercase;
+	text-align: center;
+	padding-top: 6px;
+	padding-right: 10px;
+	padding-bottom: 6px;
+	padding-left: 10px;
+	font-size: 16px;
+}
+ul.cats li:hover span {
+	border: 2px solid #ba54ff;
+	background-color: #ba54ff;
+	color: #fff;
+}
+ul.cats li span {
+	width: 50px;
+	height: 50px;
+	color: #ba54ff;
+	text-align: center;
+	border-radius: 25px;
+	line-height: 2.7;
+	border: 2px solid #ba54ff;
+	background-color: none;
+}
+.tag-list a:hover {
+	color: #fff;
+	background-color: #ba54ff;
+}
+.picture .category-image {
+	position: relative;
+	background-color: #ba54ff;
+}
+.category-caption h2 {
+	font-size: 14px;
+	color: #fff;
+	background-color: #ba54ff;
+	padding-top: 11px;
+	padding-right: 20px;
+	padding-bottom: 11px;
+	padding-left: 20px;
+	letter-spacing: 2px;
+	margin: 0px;
+}
+.category-caption span {
+	font-size: 14px;
+	color: #fff;
+	background-color: #ba54ff;
+	padding-top: 6px;
+	padding-right: 12px;
+	padding-bottom: 6px;
+	padding-left: 12px;
+	border: 1px solid #ba54ff;
+}
+.category-caption span:hover {
+	background-color: transparent;
+	border: 1px solid #ba54ff;
+}
+.category-caption span:hover a {
+	color: #ba54ff;
+}
+.category-caption h2.main-caption:hover {
+	background-color: #ba54ff;
+	color: #fff;
+	text-decoration: none;
+}
+.category-caption h2.sub-caption {
+	background-color: #ba54ff;
+}
+ul.via li:first-child {
+	color: #FFF;
+	background-color: #ba54ff;
+}
+ul.via li:hover {
+	color: #FFF;
+	background-color: #ba54ff;
+}
+.sharepost ul li:first-child {
+	font-size: 14px;
+	color: #fff;
+	background-color: #ba54ff;
+	padding-top: 8px;
+	padding-right: 16px;
+	padding-bottom: 8px;
+	padding-left: 16px;
+	letter-spacing: 2px;
+}
+.next-n-prev .btns {
+	margin-top: 30px;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	background-color: #151515;
+	color: #ba54ff;
+	border: 2px solid #ba54ff;
+	text-align: center;
+}
+.next-n-prev .btns:hover {
+	background-color: #ba54ff;
+	color: #fff!important;
+	border: 2px solid #ba54ff;
+}
+.next-n-prev .btns a {
+	color: #ba54ff!important;
+}
+ul.media-list .media .reply a {
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top: 2px;
+	padding-bottom: 6px;
+	background-color: #151515;
+	color: #ba54ff;
+	border: 1px solid #ba54ff;
+}
+ul.media-list .media .reply a:hover {
+	background-color: #ba54ff;
+	color: #fff;
+	border: 1px solid #ba54ff;
+}
+.error-page .big {
+	font-size: 100px;
+	font-weight: 900;
+	color: #ba54ff;
+	margin: 0px;
+	padding: 0px;
+}
+.scrollup {
+	background-color: #ba54ff;
+}
+/* -------------------------------------------------------------- Colors for Main css Ends ---------------------------- */
+
+/* -------------------------------------------------------------- Colors for Bootstrap min css Starts ---------------------------- */
+
+button, html input[type=button], input[type=reset], input[type=submit] {
+	color: #ba54ff;
+	-webkit-appearance: button;
+	cursor: pointer;
+	background-color: #151515;
+	font-size: 14px;
+	padding-top: 8px;
+	padding-right: 14px;
+	padding-bottom: 8px;
+	padding-left: 14px;
+	margin-top: 4px;
+	border: 2px solid #ba54ff;
+}
+button, html input[type=button]:hover, input[type=reset]:hover, input[type=submit]:hover {
+	color: #fff;
+	background-color: #ba54ff;
+	border: 2px solid #ba54ff;
+}
+.dropdown-menu>li>a:hover, .dropdown-menu>li>a:focus {
+	color: #ba54ff;
+	text-decoration: none;
+}
+.dropdown-menu>.active>a, .dropdown-menu>.active>a:hover, .dropdown-menu>.active>a:focus {
+	color: #ba54ff;
+	text-decoration: none;
+	background-color: #337ab7;
+	outline: 0
+}
+.nav .open>a, .nav .open>a:hover, .nav .open>a:focus {
+	/*background-color: #eee;
+	border-color: #337ab7*/
+	color: #ba54ff!important;
+}
+.nav-pills>li.active>a, .nav-pills>li.active>a:hover, .nav-pills>li.active>a:focus {
+	color: #fff;
+	background-color: #ba54ff
+}
+.nav-tabs {
+	border-bottom: 1px solid #ba54ff
+}
+.nav-tabs>li.active>a, .nav-tabs>li.active>a:hover, .nav-tabs>li.active>a:focus {
+	color: #fff;
+	cursor: default;
+	background-color: #ba54ff;
+	border: 1px solid #ba54ff;
+	border-bottom-color: transparent
+}
+.nav-tabs.nav-justified>.active>a, .nav-tabs.nav-justified>.active>a:hover, .nav-tabs.nav-justified>.active>a:focus {
+	border: none;
+	background-color: #ba54ff;
+	color: #fff;
+}
+.nav-tabs.nav-justified>li>a {
+	border-bottom: 1px solid #ba54ff;
+	border-radius: 0
+}
+.navbar-inverse .navbar-toggle {
+	border-color: #ba54ff
+}
+.navbar-inverse .navbar-toggle .icon-bar {
+	background-color: #ba54ff
+}
+.navbar-inverse .navbar-nav>.open>a, .navbar-inverse .navbar-nav>.open>a:hover, .navbar-inverse .navbar-nav>.open>a:focus {
+	color: #ba54ff;/*background-color: #080808*/
+}
+.pagination>li>a:hover, .pagination>li>span:hover, .pagination>li>a:focus, .pagination>li>span:focus {
+	color: #fff;
+	background-color: #ba54ff;
+	border-color: #ba54ff
+}
+.pagination>.active>a, .pagination>.active>span, .pagination>.active>a:hover, .pagination>.active>span:hover, .pagination>.active>a:focus, .pagination>.active>span:focus {
+	z-index: 2;
+	color: #fff;
+	cursor: default;
+	background-color: #ba54ff;
+	border-color: #ba54ff
+}
+
+/* -------------------------------------------------------------- Colors for Bootstrap min css Starts ---------------------------- */

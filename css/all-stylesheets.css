@@ -1,0 +1,27 @@
+@charset "utf-8";
+/* CSS Document */
+
+/* Fonts Montserrat and Raleway */
+@import url(http://fonts.googleapis.com/css?family=Lato:100,300,400,700,900,100italic,300italic,400italic,700italic,900italic);
+
+/* Bootstrap v3.2.0 */
+@import url("bootstrap/bootstrap.min.css");
+
+/* Main Stylesheet */
+@import url("stylesheet.css");
+
+/* Default Bg Image */
+@import url("background/pattern-bg-1.css");
+
+/* Sidr */
+@import url("sidr/jquery.sidr.light.css");
+
+/* Owl Carousel */
+@import url("../owl-carousel/owl-carousel/owl.carousel.css");
+@import url("../owl-carousel/owl-carousel/owl.theme.css");
+@import url("../owl-carousel/owl-carousel/owl.transitions.css");
+
+/* FontAwesome */
+@import url("../fonts/font-awesome/css/font-awesome.css");
+@import url("../fonts/font-awesome/css/font-awesome.min.css");
+
